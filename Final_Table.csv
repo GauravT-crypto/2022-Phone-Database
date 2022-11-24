@@ -1,0 +1,11 @@
+Phone,Brand,Price,Screen,Pixels,Resolution,Storage_Size,Ram,Battery
+"Galaxy S22 Ultra",Samsung,"$1659.99 CAD","6.8 IN","3088 by 1440","500 PPI","512 GB","12 GB","5000 mAh"
+"Galaxy Z Fold 4",Samsung,"$1799 CAD","7.6 IN","2176 by 1812","373 PPI","256 GB","12 GB","5000 mAh"
+"Google Pixel 7",Google,"$779 CAD","6.3 IN","1080 by 2400","416 PPI","256 GB","8 GB","4355 mAh"
+"Google Pixel 7 Pro",Google,"$1009 CAD","6.7 IN","1440 by 3120","512 PPI","256 GB","8 GB","5000 mAh"
+"Iphone 14",Apple,"$1519 CAD","6.1 IN ","2532 by 1170","460 PPI","512 GB","6 GB","4323 mAh"
+"Iphone 14 Plus",Apple,"$1669 CAD","6.7 IN","2778 by 1284","458 PPI","512 GB","6 GB","4323 mAh"
+"Iphone 14 Pro",Apple,"$1819 CAD","6.1 IN","2556 by 1179","460 PPI","512 GB","6 GB","4323 mAh"
+"Iphone 14 Pro Max",Apple,"$1969 CAD","6.7 IN","2796 by 1290","460 PPI","512 GB","6 GB","4323 mAh"
+"Samsung Galaxy S22",Samsung,"$929.99 CAD","6.1 IN","1080 by 2340","425 PPI","256 GB","8 GB","3700 mAh"
+"Samsung Galaxy S22+",Samsung,"$1179.99 CAD","6.6 IN","1080 by 2340","393 PPI","256 GB","8 GB","5000 mAh"
